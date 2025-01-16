@@ -20,7 +20,7 @@ const SupportSection = () => {
 
       {/* Title and Description */}
       <div className="text-center mt-12 px-6">
-        <h2 className="text-4xl font-bold text-primaryColor">Let's Make a Change</h2>
+        <h2 className="text-4xl font-bold text-primaryColor">Lets Make a Change</h2>
         <p className="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">
           Every contribution counts. Together, we can uplift communities and transform lives. Explore the different ways you can support our cause.
         </p>

@@ -66,7 +66,7 @@ const Instructors2 = () => {
 
         <div data-aos="fade-up" className="text-center mb-15px">
           <SectionNameSecondary>YOUNG STAR TRUST</SectionNameSecondary>
-          <HeadingPrimaryXl text="center">Our Honarable Trustee's</HeadingPrimaryXl>
+          <HeadingPrimaryXl text="center">Our Honarable Trustees</HeadingPrimaryXl>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-30px">
           {/* teachers */}
